@@ -11,7 +11,7 @@ Both layers of metrics are exposed through prometheus on individual ports:
 * Pocket Prometheus Default Port: `8083`
 
 For Tendermint Prometheus info please refer
-to [this documentation](https://docs.tendermint.com/master/nodes/metrics.html)
+to [this documentation](https://docs.tendermint.com/v0.34/tendermint-core/metrics.html)
 
 Pocket Metrics work expose service metrics per hosted chain for the validator. By default Pocket metrics are enabled.
 
